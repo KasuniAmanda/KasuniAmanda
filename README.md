@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- 📫 How to reach me **kasuniamanda2025@gmail.com**
+- 📫 How to reach me **kasuniamanda174@gmail.com**
 <br>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
