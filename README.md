@@ -5,7 +5,7 @@
 </p>
 ---
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Software Development**
 
 - 📫 How to reach me **kasuniamanda174@gmail.com**
 <br>
