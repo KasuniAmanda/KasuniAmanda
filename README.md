@@ -11,9 +11,7 @@
 
 - 📫 How to reach me **kasuniamanda174@gmail.com**
 <br>
-
-<br>
-🎨 I love creating clean, user-friendly digital experiences and working on real-world projects.
+- I love creating clean, user-friendly digital experiences and working on real-world projects.
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
