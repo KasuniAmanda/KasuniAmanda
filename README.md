@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kasuniamanda174@gmail.com**
 <br>
-🔭 I’m a 3rd-year ICT undergraduate passionate about Software Development.
+
 <br>
 🎨 I love creating clean, user-friendly digital experiences and working on real-world projects.
 
