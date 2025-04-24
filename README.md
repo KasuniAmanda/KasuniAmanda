@@ -6,8 +6,6 @@
 ---
 
 - 💻 A curated collection of my open source experiments and projects
-  
-- 🎨 Passionate about creating innovative solutions and thriving in a collaborative environment
 
 - 🌱 I’m currently learning **Software Development**
 
