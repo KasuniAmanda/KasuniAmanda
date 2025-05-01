@@ -7,7 +7,7 @@
 
 - 💻 A curated collection of my open source experiments and projects
 
-- 🌱 I’m currently learning **Software Development**
+
 
 - 📫 How to reach me **kasuniamanda174@gmail.com**
 <br>
