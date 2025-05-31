@@ -4,12 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=KasuniAmanda&label=Profile%20views&color=blue&style=flat" alt="KasuniAmanda" />
 </p>
 ---
+
 - 💻 A curated collection of my open source experiments and projects
 
 - 🌱 I’m currently learning **Software Development**
 
 - 📫 How to reach me **kasuniamanda174@gmail.com**
-
 <br>
 
 <h4 align="left">Connect with me:</h4>
