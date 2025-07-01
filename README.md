@@ -5,7 +5,7 @@
 </p>
 ---
 
-- 💻 A curated collection of my open source experiments and projects
+- 💻 Acurated collection of my open source experiments and projects
 
 - 🌱 I’m currently learning **Software Development**
 
