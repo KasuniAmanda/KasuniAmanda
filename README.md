@@ -76,9 +76,6 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
   </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> 
-  </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> 
   </a>
