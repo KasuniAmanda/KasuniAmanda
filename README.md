@@ -10,8 +10,7 @@
 ### 👩‍💻 About Me  
 
 - 🎓 Undergraduate at **University of Ruhuna**  
-- 💻 Passionate about **Software Development, Full Stack Web Development, and Cloud Computing**  
-- 🌱 Currently learning **Advanced Web Technologies, Cloud, and Data Science**  
+- 💻 Passionate about **Software Development, UI/UX Designing**  
 - 💡 Always eager to explore new **frameworks, databases, and deployment tools**  
 - 📫 Reach me at **kasuniamanda174@gmail.com**  
 
@@ -104,31 +103,6 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KasuniAmanda&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasuniAmanda&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasuniAmanda&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🚀 Featured Projects  
-
-- 🔹 [Portfolio Website](#) – Built with **React.js + Tailwind + Vercel**  
-- 🔹 [Data Warehouse Project](#) – Airline analytics using **SQL + BI tools**  
-- 🔹 [MERN Stack App](#) – CRUD operations with **MongoDB, Express, React, Node.js**  
-- 🔹 [Java & C Projects](#) – Coursework & algorithm implementations  
 
 ---
 
