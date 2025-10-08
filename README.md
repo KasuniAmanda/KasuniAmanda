@@ -1,25 +1,35 @@
-<h2 align="center" >Hi 👋,   I'm Amanda Weerasooriya Arachchi</h2>
-<h4 align="center">Undergraduate at University of Ruhuna</h4>
+<h2 align="center">Hi 👋, I'm Amanda Weerasooriya Arachchi</h2>
+<h4 align="center">Undergraduate | Software Developer | Tech Enthusiast</h4>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KasuniAmanda&label=Profile%20views&color=blue&style=flat" alt="KasuniAmanda" />
 </p>
+
 ---
 
-- 💻 Acurated collection of my open source experiments and projects
+### 👩‍💻 About Me  
 
-- 🌱 I’m currently learning **Software Development**
+- 🎓 Undergraduate at **University of Ruhuna**  
+- 💻 Passionate about **Software Development, Full Stack Web Development, and Cloud Computing**  
+- 🌱 Currently learning **Advanced Web Technologies, Cloud, and Data Science**  
+- 💡 Always eager to explore new **frameworks, databases, and deployment tools**  
+- 📫 Reach me at **kasuniamanda174@gmail.com**  
 
-- 📫 How to reach me **kasuniamanda174@gmail.com**
-<br>
+---
 
-<h4 align="left">Connect with me:</h4>
+### 🌐 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/amanda-weerasooriya-arachchi-791536294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amanda-weerasooriya-arachchi-791536294" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kasuniamanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kasuniamanda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amanda-weerasooriya-arachchi-791536294" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/kasuniamanda" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+</a>
 </p>
-<br>
 
-<h4 align="left">Languages and Tools:</h4>
+---
+
+### 🛠️ Languages and Tools  
 <p align="left"> 
   <!-- Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -95,4 +105,31 @@
   </a>
 </p>
 
+---
 
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KasuniAmanda&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasuniAmanda&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasuniAmanda&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+
+- 🔹 [Portfolio Website](#) – Built with **React.js + Tailwind + Vercel**  
+- 🔹 [Data Warehouse Project](#) – Airline analytics using **SQL + BI tools**  
+- 🔹 [MERN Stack App](#) – CRUD operations with **MongoDB, Express, React, Node.js**  
+- 🔹 [Java & C Projects](#) – Coursework & algorithm implementations  
+
+---
+
+⭐ **Fun fact**: *I love learning by building projects — every repo here is part of my growth journey!*  
